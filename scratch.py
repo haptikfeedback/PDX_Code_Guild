@@ -1,0 +1,2 @@
+menu_option = input(f"How can I help you?\nWould you like to:\n\t1) Check my Balance\n\t2) Make a Deposit\n\t3) Make a Withdrawl"
+                    f"\n\t4) Check my interest rate\n\t5) View my transactions\n>>>")
