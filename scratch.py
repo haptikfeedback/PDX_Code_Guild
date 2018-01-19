@@ -1,2 +1,10 @@
-menu_option = input(f"How can I help you?\nWould you like to:\n\t1) Check my Balance\n\t2) Make a Deposit\n\t3) Make a Withdrawl"
-                    f"\n\t4) Check my interest rate\n\t5) View my transactions\n>>>")
+# print("How old are you?", end='')
+# age = input()
+# print("How tall are you?", end='')
+# height = input()
+# print("How much do you weight?", end="")
+# weight = input()
+#
+# print(f"So, you're {age} old, {height} tall and {weight} heavy.")
+
+
