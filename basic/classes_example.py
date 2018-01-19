@@ -52,10 +52,10 @@ class SecondChanceBankAccount(BankAccount):
                   'You must keep at least $100 in your account.'.format(self.client_name, self.balance))
 
 
-chris = SecondChanceBankAccount('Chris', '000001')
-katie = BankAccount('Katie', '000002')
-chris.deposit(101)
-chris.withdraw(10)
-katie.deposit(250)
-katie.withdraw(200)
-print(BankAccount(katie, '000002'))
+# chris = SecondChanceBankAccount('Chris', '000001')
+# katie = BankAccount('Katie', '000002')
+# chris.deposit(101)
+# chris.withdraw(10)
+# katie.deposit(250)
+# katie.withdraw(200)
+# print(BankAccount(katie, '000002'))
