@@ -1,13 +1,18 @@
-import csv
 import datetime
 
-f = open('astor.rain')
-f = f.replace("  ", '')
-csv_f = csv.reader(f)
+path = r'astor.rain'
 
-attendee_emails = []
+with open(path, 'r') as file:
+    lines = file.readlines()
 
-for row in csv_f:
-    attendee_emails.append(row[0])
+i = 0
+while lines[i].find('-----') < 0:
+    i += 1
+print(i)
 
-print(attendee_emails)
+
+data_line = lines[i].split(' ')
+
+data_lines = [datum for datum in data_line if datum != '']
+
+print(data_line)
