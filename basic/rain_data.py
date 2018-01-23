@@ -10,9 +10,7 @@ while lines[i].find('-----') < 0:
     i += 1
 print(i)
 
-
-data_line = lines[i].split(' ')
-
-data_lines = [datum for datum in data_line if datum != '']
-
-print(data_line)
+data = []
+for i in range(start_line, len(lines)):
+    data_line = lines[i].split()
+    date = datetime.datetime.strptime(dat)
