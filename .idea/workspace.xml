@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5bacda7-b0aa-444e-9f4d-85670fef9fa2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/basic/adv_phonebook.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/adventure_game.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/anagram_detector.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/basic_join.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/change_return.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/classes_example.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/count.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/create_class.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/eightball.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/extract_header.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/fancy_numbers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/function_checklist.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/function_example.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/greeting.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/guess_the_num.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/guess_the_num2.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/knights.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/languages.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/languages.txt.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/letter_locator.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/letter_locator2.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/list_double.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/madlib.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/madlib2.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/palindrome.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/phonebook.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/phonebook_example.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/phonebook_mapper.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/rain_data.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/rot_cipher.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/schedule.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/simpleunitconverter.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/string_method.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/basic/wallpaint.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blackjack/advisor.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blackjack/card.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blackjack/deck.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blackjack/hand.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/blackjack/main.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/connect_four/connect-four-moves.txt" afterPath="" />
-    </list>
+    <list default="true" id="c5bacda7-b0aa-444e-9f4d-85670fef9fa2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,51 +32,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="distance_conv.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/distance_conv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="66">
-                <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scratch.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scratch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -189,6 +104,11 @@
             <path>
               <item name="PDX_Code_Guild" type="b2602c69:ProjectViewProjectNode" />
               <item name="PDX_Code_Guild" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PDX_Code_Guild" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PDX_Code_Guild" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -402,12 +322,12 @@
     <frame x="0" y="-1620" width="2880" height="1620" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23621511" sideWeight="0.50462633" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23603724" sideWeight="0.50462633" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947582" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23621511" sideWeight="0.49537367" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947582" sideWeight="0.497153" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11957295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32966506" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32966506" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -680,14 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/distance_conv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -712,6 +624,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/distance_conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
