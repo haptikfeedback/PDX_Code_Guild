@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5bacda7-b0aa-444e-9f4d-85670fef9fa2" name="Default" comment="" />
+    <list default="true" id="c5bacda7-b0aa-444e-9f4d-85670fef9fa2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/basic/adv_phonebook.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/adventure_game.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/anagram_detector.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/basic_join.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/change_return.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/classes_example.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/count.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/create_class.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/eightball.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/extract_header.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/fancy_numbers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/function_checklist.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/function_example.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/greeting.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/guess_the_num.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/guess_the_num2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/knights.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/languages.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/languages.txt.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/letter_locator.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/letter_locator2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/list_double.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/madlib.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/madlib2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/palindrome.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/phonebook.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/phonebook_example.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/phonebook_mapper.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/rain_data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/rot_cipher.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/schedule.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/simpleunitconverter.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/string_method.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/basic/wallpaint.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blackjack/advisor.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blackjack/card.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blackjack/deck.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blackjack/hand.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/blackjack/main.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/connect_four/connect-four-moves.txt" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
