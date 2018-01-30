@@ -1,0 +1,14 @@
+{
+  "account_test.py::TestAccountCreation::test_account_creation_from_csv_string": true,
+  "account_test.py::TestAccountCreation::test_initial_checking_account_open": true,
+  "account_test.py::TestAccountCreation::test_initial_savings_account_open": true,
+  "account_test.py::TestAccountOperations::test_account_creation_from_csv_string": true,
+  "account_test.py::TestAccountOperations::test_check_withdraw_bool": true,
+  "account_test.py::TestAccountOperations::test_deposit": true,
+  "account_test.py::TestAccountOperations::test_get_balance": true,
+  "account_test.py::TestAccountOperations::test_get_standing_bool": true,
+  "account_test.py::TestAccountOperations::test_initial_checking_account_open": true,
+  "account_test.py::TestAccountOperations::test_initial_savings_account_open": true,
+  "account_test.py::TestAccountOperations::test_overdraw_error": true,
+  "account_test.py::TestAccountOperations::test_valid_withdraw_in_good_standing": true
+}
