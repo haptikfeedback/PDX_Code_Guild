@@ -188,7 +188,7 @@ function convertKilometer(to, value){
 }
 
 /**
- * Generic converter
+ * Generic converter to call specific 'from' functions
  */
 function converter(from, to, value){
     if (from === INCH){
