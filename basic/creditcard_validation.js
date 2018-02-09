@@ -17,9 +17,11 @@ function isCreditcard(numbers){
     console.log(reverseArray)
     // doubles every element of the cc number
     var length = reverseArray.length;
-    for (var i = 0; i < length; i++) {
+    for (var i = 0; i < length; i++){
         reverseArray[i] = parseInt(reverseArray[i])
     }
+    console.log(reverseArray)
+
     for (var i = 0; i < length; i+=2) {
         reverseArray[i] *= 2;
     }
