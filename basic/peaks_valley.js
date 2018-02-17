@@ -49,7 +49,7 @@ function peakValley(data){
 }
 
 /**
- * CHOP: Uses the above functions to generate a data structure: a list of lists, each list representing a single "slipe" or area from peak to valley (terminally inclusive).
+ * CHOP: Uses the above functions to generate a data structure: a list of lists, each list representing a single "slope" or area from peak to valley (terminally inclusive).
  */
 
 
