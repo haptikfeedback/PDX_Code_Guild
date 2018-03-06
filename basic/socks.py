@@ -29,7 +29,7 @@ def sockColor():
 
     for color in colors:
         if color not in socks_count.values():
-            socks_count[colors].append(color) 
+            socks_count[color].append(color) 
 
     print(color)
     print(socks_count)
